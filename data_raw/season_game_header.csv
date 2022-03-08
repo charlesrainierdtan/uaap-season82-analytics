@@ -1,0 +1,57 @@
+game_no,schedule,venue,period,home_team_id,home_team_school,home_team_nickname,away_team_id,away_team_school,away_team_nickname
+56,10/30/2019 16:00:00,MOA Arena,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ATENEO,Blue Eagles,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons
+55,10/30/2019 12:30:00,MOA Arena,4,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons
+54,10/30/2019 10:30:00,MOA Arena,4,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs
+53,10/27/2019 16:00:00,Ynarez Gym,4,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers
+52,10/27/2019 14:00:00,Ynarez Gym,4,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+51,10/26/2019 16:00:00,Ynarez Gym,4,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons
+50,10/26/2019 14:00:00,Ynarez Gym,4,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs,6109d7cd-c824-4372-ab79-aea01b0f1a76,ATENEO,Blue Eagles
+49,10/23/2019 16:00:00,Big Dome,4,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers
+48,10/23/2019 12:30:00,Big Dome,4,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+47,10/23/2019 10:30:00,Big Dome,4,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons
+46,10/20/2019 16:00:00,Ynarez Gym,4,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons
+45,10/20/2019 14:00:00,Ynarez Gym,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ATENEO,Blue Eagles,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors
+44,10/19/2019 16:00:00,Ynarez Gym,4,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers
+43,10/19/2019 14:00:00,Ynarez Gym,4,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs
+42,10/16/2019 16:00:00,MOA Arena,4,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons
+41,10/16/2019 12:30:00,MOA Arena,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ATENEO,Blue Eagles,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+40,10/16/2019 10:30:00,MOA Arena,4,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors
+39,10/13/2019 16:00:00,MOA Arena,4,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+38,10/13/2019 12:00:00,MOA Arena,4,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers,6109d7cd-c824-4372-ab79-aea01b0f1a76,ATENEO,Blue Eagles
+37,10/12/2019 16:00:00,MOA Arena,4,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors
+36,10/12/2019 14:00:00,MOA Arena,4,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs
+35,10/09/2019 16:00:00,Big Dome,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ADMU,Blue Eagles,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons
+34,10/09/2019 12:30:00,Big Dome,4,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors
+33,10/09/2019 10:30:00,Big Dome,5,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+32,10/06/2019 16:00:00,MOA Arena,5,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons
+31,10/06/2019 14:00:00,MOA Arena,4,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers
+30,10/05/2019 16:00:00,MOA Arena,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ADMU,Blue Eagles,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers
+29,10/05/2019 14:00:00,MOA Arena,4,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons
+28,09/29/2019 16:00:00,Big Dome,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ADMU,Blue Eagles,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons
+27,09/29/2019 12:00:00,Big Dome,4,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors
+26,09/28/2019 16:00:00,MOA Arena,4,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons
+25,09/28/2019 14:00:00,MOA Arena,4,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers
+24,09/25/2019 16:00:00,MOA Arena,4,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers
+23,09/25/2019 12:30:00,MOA Arena,4,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors,6109d7cd-c824-4372-ab79-aea01b0f1a76,ADMU,Blue Eagles
+22,09/25/2019 10:30:00,MOA Arena,4,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+21,09/22/2019 16:00:00,Ynarez Gym,4,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+20,09/22/2019 14:00:00,Ynarez Gym,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ADMU,Blue Eagles,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs
+19,09/21/2019 16:00:00,Ynarez Gym,4,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons
+18,09/21/2019 14:00:00,Ynarez Gym,4,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons
+17,09/18/2019 16:00:00,MOA Arena,4,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers
+16,09/18/2019 12:30:00,MOA Arena,4,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers
+15,09/18/2019 10:30:00,MOA Arena,4,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs
+14,09/15/2019 16:00:00,MOA Arena,5,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons
+13,09/15/2019 14:00:00,MOA Arena,5,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers
+12,09/14/2019 16:00:00,MOA Arena,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ADMU,Blue Eagles,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+11,09/14/2019 14:00:00,MOA Arena,4,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers
+10,09/11/2019 16:00:00,Big Dome,4,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors
+9,09/11/2019 12:30:00,Big Dome,4,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs
+8,09/11/2019 10:30:00,Big Dome,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ADMU,Blue Eagles,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers
+7,09/08/2019 16:00:00,Big Dome,4,87d50ca4-0c79-4ba3-83d5-18a06e52f061,DLSU,Green Archers,6109d7cd-c824-4372-ab79-aea01b0f1a76,ADMU,Blue Eagles
+6,09/08/2019 12:00:00,Big Dome,4,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+5,09/07/2019 16:00:00,Big Dome,4,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers
+4,09/07/2019 14:00:00,Big Dome,5,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons,12c6608e-af76-4e58-b428-8561b15bbc76,NU,Bulldogs
+3,09/04/2019 16:00:00,Big Dome,4,6109d7cd-c824-4372-ab79-aea01b0f1a76,ADMU,Blue Eagles,0cabf2f5-02db-40ac-9e2c-434238a30b03,ADU,Soaring Falcons
+2,09/04/2019 12:30:00,Big Dome,4,4515dc27-1a9d-4cdf-8fdb-f7030b8aa1e3,UP,Fighting Maroons,87c66828-7455-4d05-92b9-a85bebc97bd8,FEU,Tamaraws
+1,09/04/2019 10:30:00,Big Dome,4,98581eee-6023-484e-831c-c6db65f111ac,UST,Growling Tigers,33671853-062b-48a2-9246-fe64b2a2a15c,UE,Red Warriors
